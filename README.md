@@ -1,5 +1,5 @@
 What is the name of your language? 
--	The name of my programming language is R.
+-	The name of my programming language of choice is R.
 2.	When/where was it created, and by whom?  Was it written to address a particular problem or need? 
 -	R was created in 1993 by Ross Ihaka and Ribert Gentleman, two statisticians from the University of Auckland in New Zealand.
 -	It was developed to address the need for a free and open source software environment for statistical computing and data visualization. 
