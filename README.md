@@ -19,6 +19,12 @@ how did you pick the one that you'll be using?
 5. How do you run programs in that language?
   
 - Via the run button in the toolbar.
+- 
+- In RStudio, go to File > New File > R Script.
+This opens a new, blank script editor pane, typically in the top-left section of the RStudio window. Writing your code in a script file allows you to save and reuse it.
+
+In the newly opened R Script (or directly in the Console if you prefer interactive mode)
+Type print("Hello World!")
   
 6. How do you write comments in your language?
   
